@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔭 Building secure, full-stack web applications<br/>
+  🔭 Building secure, full-stack web applications and Cyber security<br/>
   🌱 Currently deepening my skills in cybersecurity &amp; cloud infrastructure<br/>
   💬 Ask me about web development, Python, or network security<br/>
   📫 Reach me at <a href="mailto:ashwathas2887@gmail.com">ashwathas2887@gmail.com</a>
